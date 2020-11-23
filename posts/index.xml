@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on johndoe</title>
+    <title>Posts on Shubham Panwar</title>
     <link>https://shu8ham-panwar.github.io/posts/</link>
-    <description>Recent content in Posts on johndoe</description>
+    <description>Recent content in Posts on Shubham Panwar</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://shu8ham-panwar.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Wed, 11 Nov 2020 19:23:33 +0530</lastBuildDate><atom:link href="https://shu8ham-panwar.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>my first post</title>
       <link>https://shu8ham-panwar.github.io/posts/my-first-post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 11 Nov 2020 19:23:33 +0530</pubDate>
       
       <guid>https://shu8ham-panwar.github.io/posts/my-first-post/</guid>
-      <description>draft = false date = 2020-11-23T19:16:42+05:30 title = &amp;ldquo;this a new postt&amp;rdquo; description = &amp;quot;&amp;quot; slug = &amp;quot;&amp;quot; authors = [] tags = [] categories = [] externalLink = &amp;quot;&amp;quot;
-This is my new site welcome to my blog</description>
+      <description>This is my new site welcome to my blog
+Tesla’s “$0 Marketing Budget” - Why Tesla Pays $0 for Their Marketing. Introduction Tesla Motors has no advertising, no ad agency, no CMO, no dealer network. Yet they have managed to create a household name and buzz in the market amongst millions of car lovers.
+Tell a story that resonates with individuals. Sharing a story, a vision and a mission is one of the most powerful ways to turn your customers into ambassadors.</description>
     </item>
     
   </channel>
